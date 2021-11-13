@@ -1,3 +1,3 @@
 # LeetCode
 
-LeetCode solutions written in Javascript.
+LeetCode solutions written in JavaScript.
